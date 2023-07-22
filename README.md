@@ -1,5 +1,5 @@
 # Setup your database first.
 # Read consecutively
-# database.md
-# backend.md
-# frontend.md
+# 1. database.md
+# 2. backend.md
+# 3. frontend.md
