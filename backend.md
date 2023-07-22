@@ -62,13 +62,13 @@ Once you've all set, you can build and run your backend.
 
 We first build the project before running it.
 
-**Building the project**
-
-    npm run build:prod
+**Build the project**
+`npm run build:prod`
 
 **Run the project on production**
 
-    npm run start:prod
+    `npm install -g pm2`
+    `npm run start:prod`
 
 You can now access the server through http://[IP/hostname]:7777
 
